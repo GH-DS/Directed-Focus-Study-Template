@@ -19,8 +19,8 @@ namespace MyDFSIITests
 		TEST_METHOD(TestSomeMoreWork)
 		{
 			Worker worker;
-			std::uint32_t result = worker.doIt(3);
-			Assert::AreEqual(30u, result);
+			std::uint32_t result = worker.doIt(2);
+			Assert::AreEqual(20u, result);
 		}
 	};
 }
