@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dservice/dservice/_apis/build/status/SMU-Guildhall-Doug-Service.Directed-Focus-Study-Template?branchName=main)](https://dev.azure.com/dservice/dservice/_build/latest?definitionId=1&branchName=main)
 # Directed Focus Study Title 
 Paragraph which gives a high level overview of the software from a developers
 perspective.
