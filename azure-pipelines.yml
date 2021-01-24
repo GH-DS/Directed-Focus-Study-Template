@@ -5,6 +5,13 @@
 
 trigger:
 - main
+- Sprint01
+- Sprint02
+- Sprint03
+- Sprint04
+- Sprint05
+- Sprint06
+- Sprint07
 
 pool:
   vmImage: 'windows-latest'
