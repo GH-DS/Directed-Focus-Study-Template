@@ -13,6 +13,10 @@ trigger:
 - Sprint05
 - Sprint06
 - Sprint07
+- SD401
+- SD402
+- SD403
+- SD404
 
 pool:
   vmImage: 'windows-latest'
