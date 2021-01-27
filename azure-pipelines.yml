@@ -5,6 +5,7 @@
 
 trigger:
 - main
+- Setup
 - Sprint01
 - Sprint02
 - Sprint03
